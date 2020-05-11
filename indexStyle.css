@@ -4,12 +4,12 @@ html, body {
 }
 
 header {
-	text-align: center;
-	align-items: center;
+  text-align: center;
+  align-items: center;
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Alex Brush', sans-serif;
   font-weight: 100;
   text-align: center;
 }
