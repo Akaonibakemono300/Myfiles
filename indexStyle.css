@@ -1,6 +1,7 @@
 html, body {
-  margin-top: 80px;
+  margin: 80px;
   padding: 0;
+  
 }
 
 header {
@@ -24,13 +25,12 @@ p {
   width: 187px;
 }
 
+#logolayout {
+  padding: 80px; 
+}
+
 @media only screen and (max-device-width: 480px) {
-  
-        html, body {
-          margin-left: 80px;
-          margin-right: 80px;
-        }
-  
+
         #logopic {
           heigth: 600px;
           width: 600px;
