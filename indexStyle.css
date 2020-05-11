@@ -18,3 +18,25 @@ p {
   font-family: 'Sriracha', cursive;
   font-size: 15px;
 }
+
+#logopic {
+  heigth: 187px;
+  width: 187px;
+}
+
+@media only screen and (max-device-width: 480px) {
+        #logopic {
+          heigth: 120px;
+          width: 120px;
+        }
+  
+        div#intro h1 {
+          font-size: 15px;
+        }
+  
+        div#intro p {
+          font-size: 13px;
+          overflow-wrap: normal;
+        }
+
+    }
