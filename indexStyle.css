@@ -13,3 +13,8 @@ body {
   font-weight: 100;
   text-align: center;
 }
+
+p {
+  font-family: 'Sriracha', cursive;
+  font-size: 15px;
+}
