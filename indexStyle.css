@@ -26,8 +26,8 @@ p {
 
 @media only screen and (max-device-width: 480px) {
         #logopic {
-          heigth: 300px;
-          width: 300px;
+          heigth: 400px;
+          width: 400px;
         }
   
         div#intro h1 {
