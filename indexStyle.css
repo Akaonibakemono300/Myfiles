@@ -25,6 +25,12 @@ p {
 }
 
 @media only screen and (max-device-width: 480px) {
+  
+        html, body {
+          margin-left: 80px;
+          margin-rigth: 80px;
+        }
+  
         #logopic {
           heigth: 600px;
           width: 600px;
