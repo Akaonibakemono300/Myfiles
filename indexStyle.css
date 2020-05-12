@@ -33,8 +33,10 @@ p {
 }
 
 #logopic {
- heigth: 70%;
- width: 70%;
+ max-heigth: 60%;
+ max-width: 60%;
+ heigth: auto;
+ width: auto;
 }
 
 @media only screen and (max-device-width: 480px) {
