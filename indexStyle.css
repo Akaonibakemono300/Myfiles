@@ -27,13 +27,15 @@ p {
   color: white;
 }
 
-#logopic {
-  heigth: 500px;
-  width: 500px;
+#logolayout {
+  heigth: 40vh;
+  width: 40vh;
+  padding-bottom: 100px; 
 }
 
-#logolayout {
-  padding-bottom: 100px; 
+#logopic {
+ heigth: 100%;
+ width: 100%;
 }
 
 @media only screen and (max-device-width: 480px) {
