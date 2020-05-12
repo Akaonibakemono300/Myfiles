@@ -33,8 +33,10 @@ p {
 }
 
 #logopic {
- max-heigth: 60%;
- max-width: 60%;
+ min-heigth: 20%;
+ min-width: 20%;
+ max-heigth: 50%;
+ max-width: 50%;
  heigth: auto;
  width: auto;
 }
